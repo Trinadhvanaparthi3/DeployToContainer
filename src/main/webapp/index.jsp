@@ -148,7 +148,7 @@
       <!-- Name -->
       <div>
         <label for="fullname">Full name</label>
-        <input id="fullname" name="fullname" type="text" placeholder="e.g. Priya Sharma" required
+        <input id="fullname" name="fullname" type="text" placeholder="e.g. Vanaparthi Trinadh" required
                minlength="2" maxlength="60" autocomplete="name" />
         <div class="small">Enter your first and last name.</div>
       </div>
@@ -162,7 +162,7 @@
 
         <div>
           <label for="phone">Phone</label>
-          <input id="phone" name="phone" type="tel" placeholder="+91 98765 43210"
+          <input id="phone" name="phone" type="tel" placeholder="+91 9967XXXXXX"
                  pattern="^\+?\d{7,15}$" title="Enter country code + number (digits only)" autocomplete="tel" />
           <div class="small">Optional — include country code if available.</div>
         </div>
